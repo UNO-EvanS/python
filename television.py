@@ -63,17 +63,3 @@ class Television:
 
     def __str__(self):
         return f"Power = {self._status}, Channel = {self._channel}, Volume = {self._volume}"
-
-
-# WANTED OUTPUTS:
-
-# 1: Power = True, Channel = 0, Volume = 0
-# 2: Power = True, Channel = 2, Volume = 1
-# 3: Power = True, Channel = 1, Volume = 0
-# 4: Power = False, Channel = 1, Volume = 0
-# 5: Power = True, Channel = 3, Volume = 2
-# 6: Power = True, Channel = 1, Volume = 1
-# 7: Power = True, Channel = 3, Volume = 0
-# 8: Power = True, Channel = 3, Volume = 1
-# 9: Power = True, Channel = 3, Volume = 0
-# 10: Power = True, Channel = 3, Volume = 2
