@@ -77,4 +77,3 @@ class Television:
 # 8: Power = True, Channel = 3, Volume = 1
 # 9: Power = True, Channel = 3, Volume = 0
 # 10: Power = True, Channel = 3, Volume = 2
-# 11: Power = False, Channel = 3, Volume = 2
